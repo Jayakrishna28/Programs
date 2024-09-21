@@ -7,7 +7,7 @@ public class NaturalNumbers1 {
         int number = sc.nextInt();
 
         for (int i = 1; i <= number; i++) {
-            System.out.print(i + "\t");
+            System.out.print(i + "\t\t");
         }
     }
 }
